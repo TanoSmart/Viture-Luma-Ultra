@@ -1,0 +1,1 @@
+Desenvolve está interface web me baseando no design de @icon_ui.ux não consegui ter a acesso a imagem usado no design então tive que usar uma outra relacionada mas o resultado foi incrível. Usei as tecnologias HTML e CSS.
